@@ -2,7 +2,7 @@ To use code:
 
 1. open mysql -> mysql -u "username" -p
 2. type -> "password" | if exist
-3. Create database -> CREATE DATABASE "name"; | if exist use -> "database name";
+3. Create database -> CREATE DATABASE "name"; | if exist -> USE "database name";
 4. Create table ->
 CREATE TABLE tasks (
     id INT AUTO_INCREMENT PRIMARY KEY,
